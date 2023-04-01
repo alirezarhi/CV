@@ -5,3 +5,8 @@ body {
 h1 {
   color: choco;
 }
+
+hr{
+  border-style:none;
+  border-top-style:dotted;
+}

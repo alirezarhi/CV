@@ -20,8 +20,8 @@ hr{
     
   }
 
-.Jordan:hover {
-  opacity: .5;
+.Jordan:hover .messi {
+  opacity: .1;
 }
 
 .mj {border-radius: 100%;}

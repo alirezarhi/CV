@@ -19,3 +19,7 @@ hr{
   border-radius: 50%;
     
   }
+
+.Jordan:hover .middle {
+  opacity: 1;
+}
